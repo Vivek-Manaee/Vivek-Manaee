@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Vivek 👋
 
-<!--
-**Vivek-Manaee/Vivek-Manaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Cybersecurity and Forensics) – Sharda University  
+🔐 Passionate about Ethical Hacking & Network Security  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python, C, Networking
+- Wireshark, Nmap, Autopsy, HashCalc
+- Windows, Kali Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Network Vulnerability Scanner
+- Snort IDS Setup
+- Digital Forensics Analysis
+
+## 📫 Contact
+- LinkedIn: (https://www.linkedin.com/in/vivek-manaee-501420293/)
+- Email: (manaeevivek@gmail.com)
