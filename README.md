@@ -9,9 +9,9 @@
 - Windows, Kali Linux
 
 ## 🚀 Projects
-- Network Vulnerability Scanner
-- Snort IDS Setup
-- Digital Forensics Analysis
+- Network Forensics Evidence Correlator
+- File MetaData Analyzer Tool
+- Steganogragaphy
 
 ## 📫 Contact
 - LinkedIn: (https://www.linkedin.com/in/vivek-manaee-501420293/)
